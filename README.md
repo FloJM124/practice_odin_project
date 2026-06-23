@@ -6,10 +6,10 @@ A simple recipe website built as part of the **The Odin Project** Foundations cu
 https://FloJM124.github.io/odin-recipes
 
 ## Project Structure
-`index.html` - Main page listing all recipes
-`recipes/pancakes.html`
-`recipes/chicken-adobo.html`
-`recipes/fried-rice.html`
+- `index.html` - Main page listing all recipes
+- `recipes/pancakes.html`
+- `recipes/chicken-adobo.html`
+- `recipes/fried-rice.html`
 
 ## What I Learned
 - Structuring a basic HTML document
